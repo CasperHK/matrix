@@ -2,7 +2,10 @@
 
 This is a matrix package for the Go language.
 
-## Basic Usage
+<br/>
+
+## GoDoc
+To know more details, you can read [this GoDoc](https://godoc.org/github.com/gonum/matrix).
 
 
 <br/>
